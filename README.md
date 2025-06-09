@@ -59,8 +59,8 @@ Employee tenure analysis
 
 ## 📫 Let's Connect
 
-- 📧 Email: [your.email@example.com](ghatmal2@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/vaibhav-ghatmal)
+- 📧 Email: [www.ghatmal2@gmail.com](ghatmal2@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/vaibhav-ghatmal](https://linkedin.com/in/vaibhav-ghatmal)
 ---
 
 *“Without data, you're just another person with an opinion.” – W. Edwards Deming*
